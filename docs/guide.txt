@@ -1,0 +1,6 @@
+Git Practice Guide
+
+1. Clone the repository.
+2. Create a new branch.
+3. Make changes.
+4. Commit and push.
